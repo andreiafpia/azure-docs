@@ -598,7 +598,7 @@ The following properties are used with **field count**:
   **count.where** condition expression. A numeric
   [condition](../concepts/definition-structure.md#conditions) should be used.
 
-**Field count** expressions can enumerate the same field array up to three times in a single
+**Field count** expressions can enumerate the same field array up to five times in a single
 **policyRule** definition.
 
 For more details on how to work with array properties in Azure Policy, including detailed
